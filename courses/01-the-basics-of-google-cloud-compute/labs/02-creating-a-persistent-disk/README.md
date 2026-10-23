@@ -1,7 +1,7 @@
 # Creating a Persistent Disk
 
 - **Official lab:** https://www.skills.google/course_templates/754/labs/597888
-- **Status:** Not started
+- **Status:** Completed
 
 ## Objectives
 -
